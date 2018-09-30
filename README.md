@@ -1,10 +1,15 @@
+# Toolset for Cryptocurrency
 ---
-title: Toolset for Cryptocurrency
-tags:
-    - bitcoin
-    - ethereum
-    - tic
+coins:
+    - Bitcoin
+    - Ethereum
+    - TIC
+support:
+    - transaction & encrypt & decrypt 
+    - transaction & encrypt & decrypt
+    - transaction & encrypt & decrypt
 ---
+
 to start
 > git clone https://github.com/chaosBreaking/BitHoole.git
 
