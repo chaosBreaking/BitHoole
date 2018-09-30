@@ -1,0 +1,28 @@
+{
+  "name": "BitHoole",
+  "version": "1.0.0",
+  "description": "blockchain tool for crypto currency(bitcoin/ethereum/tic)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tool",
+    "blockchain",
+    "tic"
+  ],
+  "author": "chaosBreaking",
+  "license": "MIT",
+  "dependencies": {
+    "aes-js": "^3.1.1",
+    "axios": "^0.18.0",
+    "bitcoinjs-lib": "^4.0.2",
+    "elliptic": "^6.4.1",
+    "etherscan-api": "^8.1.3",
+    "js-sha3": "^0.8.0",
+    "scrypt-js": "^2.0.3",
+    "setimmediate": "^1.0.5",
+    "tic.common": "^0.1.4",
+    "uuid": "^3.3.2"
+  }
+}
