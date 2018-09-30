@@ -1,14 +1,9 @@
 # Toolset for Cryptocurrency
 ---
-coins:
-    - Bitcoin
-    - Ethereum
-    - TIC
-support:
-    - transaction & encrypt & decrypt 
-    - transaction & encrypt & decrypt
-    - transaction & encrypt & decrypt
-    
+
+supported coins: Bitcoin & Ethereum & TIC
+support:transaction & encrypt & decrypt
+
 ---
 
 to start
